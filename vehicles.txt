@@ -1,0 +1,49 @@
+Number: 345
+Category: 1
+Name: Cd 70
+Driver: Ahmed
+Capacity: 1
+Total Customers: 0
+-------------------
+Number: 2394
+Category: 3
+Name: Toyota Yaris
+Driver: Ahmed
+Capacity: 3
+Total Customers: 0
+-------------------
+Number: 1349
+Category: 2
+Name: Honda City
+Driver: Ahmed
+Capacity: 3
+Total Customers: 0
+-------------------
+Number: 34
+Category: 1
+Name: Cd 70
+Driver: Ali
+Capacity: 1
+Total Customers: 0
+-------------------
+Number: 20
+Category: 3
+Name: Nissan RX8
+Driver: Osman
+Capacity: 3
+Total Customers: 0
+-------------------
+Number: 273
+Category: 2
+Name: BMW i8
+Driver: Imran
+Capacity: 3
+Total Customers: 0
+-------------------
+Number: 27
+Category: 1
+Name: Yb 100
+Driver: Tahir
+Capacity: 1
+Total Customers: 0
+-------------------
